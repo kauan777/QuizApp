@@ -1,2 +1,11 @@
-# QuizApp
-Quiz com perguntas construidas em objeto
+<h1 align="center">
+
+Quiz app
+
+</h1>
+
+## Technologies 🔧
+
+- HTML
+- CSS
+- Javascript
